@@ -26,8 +26,8 @@ Hello from Java! Author: Estcll
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? commit zapisuje w chmurze dane zmiany, push dodaje dane zmiany do dałego pozostałego kodu w repozytorium
-2. Dlaczego po scaleniu PR wykonuję lokalnie pull? ...
-3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? ...
+2. Dlaczego po scaleniu PR wykonuję lokalnie pull? aby pobrać i scalić nasze zmiany do gałęzi main
+3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? sprawdza czy kod poprawnie się kompiluje, a nie sprawdza poprawnej weryfikacji naszego środowiska
 
 ## Ewentualne problemy środowiska
-Brak / opis problemu i sposób rozwiązania: ...
+Brak / opis problemu i sposób rozwiązania:
